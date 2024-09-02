@@ -812,7 +812,7 @@ header .lnb-close:hover {
   width: 144px;
   height: 154px;
   background-image: url("../images/main/butterfly.gif");
-  background-size: contain;
+  background-size: cover;
   animation: yAxis2 4.5s infinite cubic-bezier(0.3, 0.27, 0.07, 1.64);
 }
 
@@ -1158,5 +1158,3 @@ header .lnb-close:hover {
     padding: 2.56rem 0.6rem 0 0.6rem;
   }
 }
-
-/*# sourceMappingURL=style.css.map */
